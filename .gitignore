@@ -22,3 +22,13 @@ go.work
 
 # Visual Studio Code Settings
 .vscode
+
+# OS Files
+*.DS_Store
+*.db
+*.ini
+
+# GBA Files
+*.elf
+*.gba
+*.sav
